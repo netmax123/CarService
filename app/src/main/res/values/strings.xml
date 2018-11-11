@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CarService</string>
+    <item name="fragmentLayout" type="id" />
+</resources>
